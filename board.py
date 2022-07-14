@@ -1,7 +1,7 @@
 def print_board():
- board = [['-','-','-'],
+ ticboard = [['-','-','-'],
           ['-','-','-'],
           ['-','-','-']]
- for row in board:
+ for row in ticboard:
    print(row)
 print_board()
