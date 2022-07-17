@@ -27,7 +27,7 @@ def play_the_game():
         
 
 def turn(player):
-    print("it's " + player "'s turn"
+    print("it's " + player + "'s turn"
     pose = input("choose a position (pick only between 1-9)")
     
     valid = False
